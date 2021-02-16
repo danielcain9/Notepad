@@ -12,7 +12,7 @@ Upon welcome completion
 - Otherwise they are taken to the login page.
 
 
-### Register page
+### Registration page
 ![Register](https://user-images.githubusercontent.com/60546240/108077747-8af92380-7075-11eb-9b58-2f766d2029a2.png)
 
 Upon registration, taken to the list of notes. (Currently none)
